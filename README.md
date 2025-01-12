@@ -58,14 +58,6 @@ This is a FastAPI-based project for managing tasks. It provides a RESTful API fo
 7. Access the API documentation:
    - Open your browser and go to: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
-## .env.example
-
-Here is the content of the `.env.example` file:
-
-```env
-DATABASE_URL=mysql+pymysql://<user>:<password>@<host>:<port>/<database_name>
-```
-
 ## API Endpoints
 
 ### Task Endpoints
